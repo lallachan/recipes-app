@@ -1,0 +1,30 @@
+.editContainer {
+    text-align: left;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 0;
+}
+
+.rowItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.ulList {
+    padding: 0;
+    margin-left: 40px;
+    margin-top: -5px;
+}
+
+.ulListTags {
+    padding: 0;
+    margin: 20px;
+    margin-top: -5px;
+}
+

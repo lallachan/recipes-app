@@ -1,0 +1,6 @@
+.centerDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh; /* 100% of the viewport height */
+}

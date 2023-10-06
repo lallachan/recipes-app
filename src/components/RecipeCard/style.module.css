@@ -1,0 +1,27 @@
+.cardFooter {
+    text-align: right;
+    font-size: 10px;
+    position: absolute;
+    bottom: -5px;
+    right: 10px;
+}
+
+.child {
+    display: inline-block;
+    margin: 10px 0 0 10px;
+    flex-grow: 1;
+    max-width: 300px;
+}
+
+.child:hover {
+    background-color: aliceblue;
+}
+
+.child {
+    transition: all .2s ease-in-out;
+}
+
+.child:hover {
+    transform: scale(1.1);
+}
+

@@ -1,0 +1,17 @@
+.filterContainer {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.input {
+    width: 300px;
+}
+
+.createButton {
+    background-color: blueviolet;
+}
