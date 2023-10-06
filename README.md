@@ -3,7 +3,7 @@
 Welcome to the Recipes application - a simple web about recipes
 
 ### Live version: 
-[Recipe Demo](https://recipes-blfzstl6y-lallachan.vercel.app)
+[Recipe Demo](https://recipes-sand-iota.vercel.app)
 
 ## Setup and local usage
 
